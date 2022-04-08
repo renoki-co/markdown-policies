@@ -24,6 +24,7 @@ We reserve to terminate all accounts or restrict IPs at our discretion, based on
 - The content is not bothering any other people for various personal reasons
 - Assets used are property of Renoki Co. or third parties (which we specify when it's needed) and should not be used for any other stuff
 - Copying material without permission from other users or the apps and services, respectively
+- For paid apps or services, any content that is privately distributed should remain private
 - NSFW/NSFL content involving children or animals is not tolerable (there is a special place in hell for this thing)
 - Don't make bombs or lethal weapons using our apps or services (seriously, don't!)
 - Don't be a jerk
